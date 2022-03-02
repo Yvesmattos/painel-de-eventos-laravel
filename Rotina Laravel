@@ -1,0 +1,29 @@
+Criar as views
+Crias os css
+Linkar fontes externas
+Criar os controllers
+Criar os bancos
+Crias os models
+Criar as migrations
+
+Criar form
+Definir Action
+Diretiva @csrf
+Criar a rota no controller
+Criar a action store
+
+Flash message:
+    mensagem de retorno de um envio de formulário (método with)
+
+
+enctyp = enviar arquivos
+
+cast no model para salvar informações <> de string  
+
+Alteração no controller para buscar por select
+
+
+jetstream
+livewire
+
+
